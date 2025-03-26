@@ -1,7 +1,9 @@
-<h1>🚗 Infinite Auto Carousel in Flutter</h1>
+
 
 ![Your paragraph text](https://github.com/user-attachments/assets/5c31d36d-3952-4e9a-8789-155f7f19e44e)
 
+
+<h1>🚗 Infinite Auto Carousel in Flutter</h1>
 <h5>A smooth and infinite auto-scrolling carousel in Flutter that transitions seamlessly between items. The carousel displays car images and details, using a mock JSON file (mock_cars.json) as the data source.
 </h5>
 <br>
