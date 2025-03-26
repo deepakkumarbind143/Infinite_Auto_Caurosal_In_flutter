@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Tesla Model S",
+    "imageUrl": "https://i.pinimg.com/474x/71/5e/45/715e4538711a9a681fbbacc4ca3bdf28.jpg",
+    "description": "Luxury electric sedan with impressive range and performance",
+    "color": "blue",
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "name": "BMW i8",
+    "imageUrl": "https://i.pinimg.com/474x/b5/11/fc/b511fc1782c5da92e645ea4bd7f3a548.jpg",
+    "description": "Plug-in hybrid sports car with futuristic design",
+    "color": "purple",
+    "rating": 4.2
+  },
+  {
+    "id": "3",
+    "name": "Porsche Taycan",
+    "imageUrl": "https://i.pinimg.com/474x/f5/fe/8e/f5fe8ee39d47ef289c9555d6f12e005f.jpg",
+    "description": "High-performance electric sports car",
+    "color": "orange",
+    "rating": 4.8
+  },
+  {
+    "id": "4",
+    "name": "Audi e-tron GT",
+    "imageUrl": "https://i.pinimg.com/474x/2f/2d/f5/2f2df57f25dd748755283f4cb0fe317a.jpg",
+    "description": "Sleek electric grand tourer with impressive acceleration",
+    "color": "green",
+    "rating": 4.6
+  },
+  {
+    "id": "5",
+    "name": "Mercedes EQS",
+    "imageUrl": "https://i.pinimg.com/474x/f4/a7/ee/f4a7eefa4736c2b185b8214e89f1a3c2.jpg",
+    "description": "Luxury electric sedan with exceptional range and comfort",
+    "color": "blue",
+    "rating": 4.7
+  },
+  {
+    "id": "6",
+    "name": "Rivian R1T",
+    "imageUrl": "https://i.pinimg.com/474x/b3/02/07/b3020738282640a95fc8e5f6dd85c1dd.jpg",
+    "description": "Electric pickup truck with adventure-ready capabilities",
+    "color": "purple",
+    "rating": 4.4
+  }
+]
