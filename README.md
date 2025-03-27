@@ -6,6 +6,10 @@
 <h1>🚗 Infinite Auto Carousel in Flutter</h1>
 <h5>A smooth and infinite auto-scrolling carousel in Flutter that transitions seamlessly between items. The carousel displays car images and details, using a mock JSON file (mock_cars.json) as the data source.
 </h5>
+
+https://github.com/user-attachments/assets/3a962720-99db-4d38-9def-136fc25a3ebb
+
+
 <br>
 <h2>📌 Setup Instructions</h2>
 <h3>Create the Required Folder and Move the File</h3>
@@ -17,8 +21,8 @@ Navigate to your Flutter project directory.
 
 Create an assets folder if it doesn't exist:
 
->your_flutter_project/
-┗── assets/
+>your_flutter_project/<br>
+┗── assets/<br>
     ┗── mock_cars.json  👈 Place the file here
 
 Register the assets folder in pubspec.yaml:
