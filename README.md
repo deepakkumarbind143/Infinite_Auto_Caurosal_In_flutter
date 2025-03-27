@@ -17,25 +17,19 @@ Navigate to your Flutter project directory.
 
 Create an assets folder if it doesn't exist:
 
-markdown
-Copy
-Edit
-your_flutter_project/
+>your_flutter_project/
 ┗── assets/
     ┗── mock_cars.json  👈 Place the file here
-Register the assets folder in pubspec.yaml:
 
-yaml
-Copy
-Edit
+Register the assets folder in pubspec.yaml:
+```
 flutter:
   assets:
     - assets/mock_cars.json
-Run:
 
-bash
-Copy
-Edit
-flutter pub get
+```
+##Run:
+
+`flutter pub get`
 Now, the app will be able to read the mock_cars.json file correctly.
 
